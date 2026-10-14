@@ -70,6 +70,13 @@ Artifact `com.clickhouse:clickhouse-jdbc:0.9.0:all` will contain all required cl
 | ClickHouse Java v1 | TBC | We'll be deprecating Java v1 in 2025 |
 
 
+## Prerequisites
+
+A running ClickHouse server, either:
+
+* **ClickHouse Cloud**: [Sign up](https://console.clickhouse.cloud/signUp?utm_medium=referral&utm_source=github&utm_campaign=readme&utm_content=clickhouse-java) for a free trial, or sign in to an existing account.
+* **Self-hosted ClickHouse**: [Install](https://clickhouse.com/docs/get-started/setup/install).
+
 ## Installation
 
 Releases: Maven Central (web site https://mvnrepository.com/artifact/com.clickhouse)
